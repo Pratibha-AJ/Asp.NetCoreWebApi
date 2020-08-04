@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NewtonSoft.Json" Version="12.0.2" />
+    <PackageReference Include="System.Data.SQLite" Version="1.0.111" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeathStar2.Data.Contracts\DeathStar2.Data.Contracts.csproj" />
+    <ProjectReference Include="..\DeathStar2.Model\DeathStar2.Model.csproj" />
+  </ItemGroup>
+
+</Project>

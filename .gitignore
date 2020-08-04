@@ -1,0 +1,15 @@
+﻿/.vs/DeathStar2
+/DeathStar2.Api/bin
+/DeathStar2.Api/obj
+/DeathStar2.Data/bin
+/DeathStar2.Data/obj
+/DeathStar2.Data.Contracts/bin
+/DeathStar2.Data.Contracts/obj
+/DeathStar2.Model/bin
+/DeathStar2.Model/obj
+/DeathStar2.Services/bin
+/DeathStar2.Services/obj
+/DeathStar2.Services.Contracts/bin
+/DeathStar2.Services.Contracts/obj
+/DeathStar2.Tests/bin
+/DeathStar2.Tests/obj
